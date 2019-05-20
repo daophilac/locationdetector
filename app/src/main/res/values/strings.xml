@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Location Detector</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="stopped">STOPPED</string>
+    <string name="tracking">TRACKING</string>
+    <string name="done">DONE</string>
+    <string name="ok">OK</string>
+    <string name="permission_has_not_been_granted">Location permission has not been granted. Terminate!</string>
+    <string name="unsatisfied_setting">Location settings are unsatisfied. Terminate!</string>
+</resources>
